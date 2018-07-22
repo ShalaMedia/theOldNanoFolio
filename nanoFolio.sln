@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nanoFolio", "nanoFolio.csproj", "{DE91CF0E-A729-4B3A-B7FE-BDA972340733}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "nanoFolio.Azure", "nanoFolio.Azure\nanoFolio.Azure.ccproj", "{75616CAC-B7BC-4ABE-8E7D-D775F03D94DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE91CF0E-A729-4B3A-B7FE-BDA972340733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE91CF0E-A729-4B3A-B7FE-BDA972340733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE91CF0E-A729-4B3A-B7FE-BDA972340733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE91CF0E-A729-4B3A-B7FE-BDA972340733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75616CAC-B7BC-4ABE-8E7D-D775F03D94DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75616CAC-B7BC-4ABE-8E7D-D775F03D94DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75616CAC-B7BC-4ABE-8E7D-D775F03D94DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75616CAC-B7BC-4ABE-8E7D-D775F03D94DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
